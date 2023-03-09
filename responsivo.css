@@ -1,0 +1,36 @@
+@media (max-width:420px){
+
+.tudo{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+
+}
+
+.area-branca{
+    height: 25em;
+}
+
+img{
+height: 15em;
+width: 15em;
+
+margin-top: 3em ;
+}
+
+.texto-menor{
+flex-direction: row;
+flex-wrap: wrap;
+
+text-align: center;
+width: 17em;
+margin-bottom: 4.5em;
+
+}
+
+
+
+}
+
+    
